@@ -1,0 +1,75 @@
+﻿category,sales_rank,total_sales,delivered_orders,late_orders,valid_delivery_orders,late_delivery_rate,missing_delivery_dates,reviewed_orders,low_rating_orders,low_rating_rate,delivery_sample_status,review_sample_status
+health_beauty,1,1229557.50,8610,647,8610,7.51,0,8564,977,11.41,Sufficient Sample,Sufficient Sample
+watches_gifts,2,1163465.91,5491,406,5489,7.40,2,5450,747,13.71,Sufficient Sample,Sufficient Sample
+bed_bath_table,3,1022955.77,9267,689,9267,7.43,0,9172,1470,16.03,Sufficient Sample,Sufficient Sample
+sports_leisure,4,952840.40,7513,495,7512,6.59,1,7469,851,11.39,Sufficient Sample,Sufficient Sample
+computers_accessories,5,888055.59,6518,416,6517,6.38,1,6487,943,14.54,Sufficient Sample,Sufficient Sample
+furniture_decor,6,706237.17,6258,449,6258,7.17,0,6212,952,15.33,Sufficient Sample,Sufficient Sample
+housewares,7,614341.62,5734,308,5734,5.37,0,5700,672,11.79,Sufficient Sample,Sufficient Sample
+cool_stuff,8,609158.00,3552,210,3552,5.91,0,3524,397,11.27,Sufficient Sample,Sufficient Sample
+auto,9,577838.39,3802,278,3801,7.31,1,3784,491,12.98,Sufficient Sample,Sufficient Sample
+garden_tools,10,469135.40,3443,225,3443,6.53,0,3423,419,12.24,Sufficient Sample,Sufficient Sample
+toys,11,467179.98,3782,243,3781,6.43,1,3753,427,11.38,Sufficient Sample,Sufficient Sample
+baby,12,399050.67,2800,226,2800,8.07,0,2778,396,14.25,Sufficient Sample,Sufficient Sample
+perfumery,13,385315.55,3060,202,3060,6.60,0,3050,360,11.80,Sufficient Sample,Sufficient Sample
+telephony,14,309631.94,4086,291,4086,7.12,0,4062,574,14.13,Sufficient Sample,Sufficient Sample
+office_furniture,15,266853.43,1248,101,1248,8.09,0,1239,269,21.71,Sufficient Sample,Sufficient Sample
+stationery,16,223788.69,2264,148,2264,6.54,0,2251,226,10.04,Sufficient Sample,Sufficient Sample
+computers,17,218684.14,177,10,177,5.65,0,174,20,11.49,Sufficient Sample,Sufficient Sample
+pet_shop,18,211005.96,1684,86,1684,5.11,0,1676,179,10.68,Sufficient Sample,Sufficient Sample
+musical_instruments,19,184315.74,611,46,611,7.53,0,605,71,11.74,Sufficient Sample,Sufficient Sample
+small_appliances,20,182754.12,609,29,609,4.76,0,604,70,11.59,Sufficient Sample,Sufficient Sample
+Unknown / Missing Category,21,170660.74,1390,101,1390,7.27,0,1380,241,17.46,Sufficient Sample,Sufficient Sample
+electronics,22,154935.94,2516,192,2516,7.63,0,2497,330,13.22,Sufficient Sample,Sufficient Sample
+fashion_bags_accessories,23,148945.19,1812,102,1812,5.63,0,1803,182,10.09,Sufficient Sample,Sufficient Sample
+consoles_games,24,144384.01,1011,62,1011,6.13,0,1002,112,11.18,Sufficient Sample,Sufficient Sample
+construction_tools_construction,25,142108.49,736,54,736,7.34,0,731,97,13.27,Sufficient Sample,Sufficient Sample
+luggage_accessories,26,138701.63,1019,44,1019,4.32,0,1015,83,8.18,Sufficient Sample,Sufficient Sample
+home_appliances_2,27,107953.95,227,14,227,6.17,0,226,28,12.39,Sufficient Sample,Sufficient Sample
+home_construction,28,81407.57,483,29,483,6.00,0,481,83,17.26,Sufficient Sample,Sufficient Sample
+home_appliances,29,78832.48,747,33,747,4.42,0,744,82,11.02,Sufficient Sample,Sufficient Sample
+agro_industry_and_commerce,30,70566.10,177,7,177,3.95,0,177,22,12.43,Sufficient Sample,Sufficient Sample
+furniture_living_room,31,67350.70,414,31,414,7.49,0,409,58,14.18,Sufficient Sample,Sufficient Sample
+home_confort,32,58008.45,392,37,392,9.44,0,390,73,18.72,Sufficient Sample,Sufficient Sample
+fixed_telephony,33,54610.33,207,10,207,4.83,0,204,35,17.16,Sufficient Sample,Sufficient Sample
+air_conditioning,34,51974.27,242,10,242,4.13,0,238,33,13.87,Sufficient Sample,Sufficient Sample
+audio,35,50413.61,346,41,346,11.85,0,343,75,21.87,Sufficient Sample,Sufficient Sample
+small_appliances_home_oven_and_coffee,36,46589.56,72,4,72,5.56,0,72,5,6.94,Sufficient Sample,Sufficient Sample
+kitchen_dining_laundry_garden_furniture,37,45531.98,241,11,241,4.56,0,239,27,11.30,Sufficient Sample,Sufficient Sample
+books_general_interest,38,45302.15,496,32,495,6.46,1,492,31,6.30,Sufficient Sample,Sufficient Sample
+construction_tools_lights,39,39957.00,242,16,242,6.61,0,239,25,10.46,Sufficient Sample,Sufficient Sample
+construction_tools_safety,40,38773.22,159,4,159,2.52,0,158,27,17.09,Sufficient Sample,Sufficient Sample
+industry_commerce_and_business,41,38139.21,229,16,228,7.02,1,227,24,10.57,Sufficient Sample,Sufficient Sample
+food,42,28651.25,440,31,440,7.05,0,436,44,10.09,Sufficient Sample,Sufficient Sample
+market_place,43,26880.48,269,11,269,4.09,0,267,33,12.36,Sufficient Sample,Sufficient Sample
+costruction_tools_garden,44,25096.28,190,10,190,5.26,0,190,23,12.11,Sufficient Sample,Sufficient Sample
+art,45,23657.30,195,12,195,6.15,0,193,27,13.99,Sufficient Sample,Sufficient Sample
+fashion_shoes,46,22971.47,234,11,234,4.70,0,230,26,11.30,Sufficient Sample,Sufficient Sample
+drinks,47,21529.84,287,15,287,5.23,0,287,29,10.10,Sufficient Sample,Sufficient Sample
+signaling_and_security,48,21315.05,138,6,138,4.35,0,137,16,11.68,Sufficient Sample,Sufficient Sample
+furniture_bedroom,49,19051.80,90,6,90,6.67,0,90,11,12.22,Sufficient Sample,Sufficient Sample
+books_technical,50,18702.23,256,21,256,8.20,0,255,24,9.41,Sufficient Sample,Sufficient Sample
+costruction_tools_tools,51,15903.95,97,6,97,6.19,0,94,8,8.51,Sufficient Sample,Sufficient Sample
+food_drink,52,14942.88,221,8,221,3.62,0,221,9,4.07,Sufficient Sample,Sufficient Sample
+fashion_male_clothing,53,10427.43,105,5,105,4.76,0,104,23,22.12,Sufficient Sample,Sufficient Sample
+fashion_underwear_beach,54,9305.95,117,11,117,9.40,0,116,19,16.38,Sufficient Sample,Sufficient Sample
+christmas_supplies,55,8737.84,125,10,125,8.00,0,123,14,11.38,Sufficient Sample,Sufficient Sample
+tablets_printing_image,56,7528.41,79,4,79,5.06,0,77,10,12.99,Sufficient Sample,Sufficient Sample
+cine_photo,57,6674.47,63,4,63,6.35,0,63,7,11.11,Sufficient Sample,Sufficient Sample
+music,58,6034.35,38,2,38,5.26,0,38,4,10.53,Sufficient Sample,Sufficient Sample
+dvds_blu_ray,59,4542.59,56,4,56,7.14,0,56,8,14.29,Sufficient Sample,Sufficient Sample
+party_supplies,60,4465.19,38,0,38,0.00,0,38,6,15.79,Sufficient Sample,Sufficient Sample
+books_imported,61,4418.86,50,2,50,4.00,0,50,5,10.00,Sufficient Sample,Sufficient Sample
+furniture_mattress_and_upholstery,62,4323.38,37,5,37,13.51,0,37,7,18.92,Sufficient Sample,Sufficient Sample
+portateis_cozinha_e_preparadores_de_alimentos,63,3933.63,13,1,13,7.69,0,13,3,23.08,Exploratory,Exploratory
+fashio_female_clothing,64,2580.04,35,2,35,5.71,0,35,6,17.14,Sufficient Sample,Sufficient Sample
+fashion_sport,65,2094.52,26,1,26,3.85,0,26,2,7.69,Exploratory,Exploratory
+la_cuisine,66,2054.99,13,0,13,0.00,0,12,2,16.67,Exploratory,Exploratory
+arts_and_craftmanship,67,1814.01,23,1,23,4.35,0,23,3,13.04,Exploratory,Exploratory
+diapers_and_hygiene,68,1365.89,24,0,24,0.00,0,24,3,12.50,Exploratory,Exploratory
+pc_gamer,69,1306.95,7,0,7,0.00,0,7,2,28.57,Exploratory,Exploratory
+flowers,70,1110.04,29,1,29,3.45,0,28,2,7.14,Exploratory,Exploratory
+home_comfort_2,71,760.27,24,3,24,12.50,0,23,5,21.74,Exploratory,Exploratory
+cds_dvds_musicals,72,730.00,12,0,12,0.00,0,12,0,0.00,Exploratory,Exploratory
+fashion_childrens_clothes,73,519.95,7,0,7,0.00,0,7,0,0.00,Exploratory,Exploratory
+security_and_services,74,283.29,2,0,2,0.00,0,2,1,50.00,Exploratory,Exploratory
